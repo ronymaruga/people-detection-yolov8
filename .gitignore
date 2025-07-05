@@ -1,3 +1,4 @@
 .env
 yoloenv/
 yolov8n.pt
+annotated_output.avi
